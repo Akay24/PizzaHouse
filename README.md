@@ -1,5 +1,5 @@
 # PizzaHouse
-Hungry?! Our pizza is more delicious than your mom , grab a pizza from our store.
+Hungry?! Our pizza is more delicious than your mom,grab a pizza from our store.
 
 print("Welcome to Pizza Kitchen")
 size = input("What size pizza do you want? S, M, or L ")
